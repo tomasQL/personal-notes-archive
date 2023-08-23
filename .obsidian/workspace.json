@@ -1,0 +1,161 @@
+{
+  "main": {
+    "id": "4fcae4a40af67865",
+    "type": "split",
+    "children": [
+      {
+        "id": "e248a6214eb673e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fda50c000dbe8f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INACAP/Sistemas de Información.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "fcd00b2bca53b90c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bfa4737bb9e58cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "259ad99996af2695",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "70419c301160db8b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1f989a9def0c506c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "738b2f3ef3fe3289",
+    "type": "split",
+    "children": [
+      {
+        "id": "402940a3a55dd1c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d5307dd3d6b5fa2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "INACAP/Sistemas de Información.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6a6b8d238898f54f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "INACAP/Sistemas de Información.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6888a558c0c03b44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fad9876f182a7511",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "INACAP/Sistemas de Información.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "0fda50c000dbe8f3",
+  "lastOpenFiles": [
+    "tomasQL/index.md",
+    "INACAP/Sistemas de Información.md",
+    "INACAP/Innovación y Emprendimiento I..md",
+    "INACAP/Innovación y Emprendimiento I 1.md",
+    "INACAP/Ingeniería de Software.md",
+    "tomasQL/Docker.md",
+    "tomasQL/Cloud and Virtualization Concepts.md",
+    "INACAP/index.md"
+  ]
+}
