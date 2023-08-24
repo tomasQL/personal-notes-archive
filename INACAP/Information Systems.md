@@ -106,4 +106,84 @@ Debe ser:
 * Detallada
 * Compendida
 
+<hr>
+
+Más sobre sistemas.
+
+Sistema: Conjunto ordenado de normas y procedimientos que regulan el funcionamiento de un grupo o colectividad.
+Conunto de reglas, principios o medidas que tienen relación entre sí.
+Objetivos generales de un sistema:
+**Resolver un problema.** Por ejemplo: disminuir los errores de ingreso de datos en un sistema de
+archivos, volviendo este proceso de analógico, a digital.
+**Aprovechar una oportunidad:** Cuando se pueden realizar cambios provechosos para la entidad.
+Por ejemplo: cambios de precios en algún producto para enlazar a los consumidores con otro producto.
+**Dar respuesta a directivos:** Proporcionar información útil sobre la entidad, sus servicios, tareas, etc. Para las diversas partes que la conforman. Por ejemplo: cuando hay que generar un reporte de gastos para los directivos de la empresa.
+
+De este punto, se desprenden *las cinco C:*
+1. Capacidad
+2. Control
+3. Comunicación
+4. Costos 
+5. Competitividad
+Definamos un sistema de información a base de las 5C.
+	1. Capacidad:
+		Mayor velocidad de procesamiento. Uso de la capacidad computacional para los diferentes procesos y tareas en relación con los DATOS E INFORMACIÓN.
+		Cálculos, órdenes, solicitudes, etc.
+	2. Control: 
+		Exactitud y consistencia de los datos. Seguridad de la información.
+		Formatos en que se manipulan los DATOS E INFORMACIÓN, de modo que se pueda 
+		monitorear y controlar. Si manejamos mucha o poca redundancia, si estandarizamos o no
+		el uso de ciertos recursos para el correcto funcionamiento de las herramientas que posee el sistema.
+	3. Comunicación: 
+		Acelerar el flujo de información mejorando la comunicación.
+		Coordinar las actividades en un lugar entre las diversas áreas de la organización.
+	4. Costos:
+		Monitoreo de los costos con el fin de determinar una evolución respecto a lo esperado o
+		proyectado. Reducción de los costos. Uso de la capacidad de cómputo para procesar 
+		datos con un coste menor del que es posible con otros métodos manteniendo exactitud y 
+		niveles de desempeño.
+	5. Competitividad:
+		Posicionamiento en el mercado.
+		Atraer clientes, dejar fuera la competencia. Mejores acuerdos con proveedores. 
+		Desarrollo de nuevos productos.
+
+Caso de estudio/ejemplo:
+
+Sistema de facturación.
+
+Tabla img a insertar  - pendiente
+
+
+<hr>
+
+## Teoría General de Sistemas.
+
+Las organizaciones se encuentran en un entorno de desarrollo muy dinámico gracias a la globalización. Y es una opción de las empresas "desarrollar" oportunamente estos aspectos.
+
+Es importante determinar que los sistemas cambian, se basan en la capacidad de relacionarse con los componentes.
+Entender cambos fuera del medio y adaptarse a la evolución del mismo. Por convicción interna
+o necesidad.
+Esto debe ser validado en conjunto de la Visión, MIsión y Valores de la organización.
+
+Para que la teoría funcione, debe existir un tratamiento de la información que defina la empresa.
+La información es un activo muy importante al momento de tomar decisiones acertadas.
+Los sistemas de información serán relevantes y son parte central del negocio.
+Todo esto, orientado y en base a la VMV.
+Las metodologías para desarrollar estos sistemas toman relevancia y van cambiando. Los tiempos cada vez son más ajustados y se requieren resultados precisos y asertivos.
+Por lo que el ciclo de vida del sistema se mantiene pero con etapas desarrolladas.
+Por ejemplo:
+La etapa de mantención podemos reconocerla como parte de una evolución que abarca las 
+mantenciones preventivas y correctivas, entre otras. Esto proviene del dinamismo.
+
+Analogía de sistema: el cuerpo humano como un sistema.
+Las partes de nuestro cuerpo (Sistema) están hechas para cumplir su objetivo incluso aún,
+cuando otras partes fallen, con el objetivo de mantener con vida al organismo. E incluso, partes
+de nuestro sistema seguirán funcionando, donde la efectividad y calidad se degraden pero la 
+vida del organismo prevalece.
+
+TGS. 
+¿Qué es un sistema de información?
+¿Para qué sirve un sistema de información?
+¿Cuales son sus objetivos?
+Sistema - Datos - Entrada - Procesos - Salida - Información 
 
