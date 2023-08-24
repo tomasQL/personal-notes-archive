@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INACAP/Sistemas de Información.md",
+                "file": "INACAP/Information Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "738b2f3ef3fe3289",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INACAP/Sistemas de Información.md",
+                "file": "INACAP/Information Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INACAP/Sistemas de Información.md",
+                "file": "INACAP/Information Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INACAP/Sistemas de Información.md"
+                "file": "INACAP/Information Systems.md"
               }
             }
           }
@@ -149,10 +148,10 @@
   },
   "active": "0fda50c000dbe8f3",
   "lastOpenFiles": [
-    "INACAP/Ingeniería de Software.md",
-    "INACAP/Sistemas de Información.md",
-    "tomasQL/index.md",
     "INACAP/Innovación y Emprendimiento I..md",
+    "INACAP/Software Engineering.md",
+    "INACAP/Information Systems.md",
+    "tomasQL/index.md",
     "INACAP/Innovación y Emprendimiento I 1.md",
     "tomasQL/Docker.md",
     "tomasQL/Cloud and Virtualization Concepts.md",

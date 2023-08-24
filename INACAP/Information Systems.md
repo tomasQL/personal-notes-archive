@@ -75,10 +75,35 @@ Bibliografía consultada:
 *"La información son datos transformados de forma significativa, para la persona que los recibe."*
 
 La información son datos que han sido interpretados y comprendidos por el receptor del mensaje.
-
-Para que los datos puedan ser transformados en información hay que considerar los procesos y sus atributos que influyen en el individuo que recibe el mensaje.
+Para que los datos puedan ser transformados en información hay que considerar los procesos y sus atributos, que influyen en el individuo que recibe el mensaje.
 El tipo de informacón requerida también puede variar.
+Por ejemplo: dentro de una organización, la transferencia de información de un nivel organizativo a otro puede provocar un cambio de significado de dicha información.
+Causando intercambios entre la percepción de datos e información a ojos del observador en la organización (Menguzzato y Renau, 1991).
 
-Por ejemplo: dentro de una organización, la transferencia de información de un nivel organiza
+Es así como la información reviste el carácter de un recurso más para la empresa.
+Esto también lleva a realizar planteamientos como el problema de la economía de la información.
+Esto es: 
+*Establecer la relación entre el valor de la información y el costo de esta.*
+	De acuerdo con Menguzzato y Renau 1991.
+	Los costos de la información pueden ser estimados en función de:
+	1. Contenido de la información requerida.
+	2. Velocidad con la que se requiere la información.
+	3. La cantidad de información necesaria.
+	4. La accesibilidad a la información.
+
+Por otro lado, el valor de la información es algo más difícil de determinar.
+Ref. VEIP.
+
+Aquí surge la idea de una "información buena".
+La buena información es la que aporta valor.
+Debe ser: 
+* Relevante
+* Exacta
+* Completa
+* Fuente confiable
+* Objetivo definido
+* Puntual
+* Detallada
+* Compendida
 
 
