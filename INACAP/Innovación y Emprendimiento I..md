@@ -3,12 +3,19 @@
 Objetivos de la asignatura: generar innovación en un proyecto de vinculación
 con el medio, mediante una propuesta de valor, la cual, debe estar alineada con
 uno de los 5 objetivos (de 12) de [***Desarrollo sostenible de las Naciones Unidas***](https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/)
-
 	 6. Agua limpia y saneamiento.
 	 7. Energía asequible y no contaminante.
 	 9. Industria, innovación e infraestructura.
 	 11. Ciudades y comunidades sostenibles. 
 	 12. Producción y consumo responsable.
+
+<hr>
+
+# INDEX
+
+Análisis de los ODS.
+Ir a [Contexto CEREFAS](#cerefas)
+
 
 <hr>
 ## Análisis de los ODS. Puntos claves, reflexiones y propuestas.
@@ -231,4 +238,53 @@ Semana 5 - Primer "trabajo".
 Desarrollo de tablas Toolkit Unidad 1.
 Claudio y Alonso . Grupo.
 
+<hr>
 
+Información de contraparte - Foro.
+
+# Contexto de la organización
+# CEREFAS
+
+*Concepto antropogénico: todo aquello que proviene o resulta de las actividades humanas
+o que es producido por ellas y que en particular, tiene efectos sobre la naturaleza.*
+
+El Centro de Rehabilitación de Fauna Silvestre (CEREFAS) de la Facultad de Ciencias
+Veterinarias de la Universidad Austral de Chile (2005), se crea en el marco de la problemática 
+ambiental que presentó el Santuario de la Naturaleza "Carlos Andwanter" del Río cruces, debido a la masiva disminución del luchecillo, principal alimento del cisne de cuello negro.
+Generando mortalidad y migración masiva de la colonia reproductiva más grande de Sudamérica.
+Como forma de solución inmediata a esta emergencia, un convenio colaborativo entre el Servicio Agrícola y Ganadero (SAG) en conjunto de la UACh, establecieron la instalación de 
+un CEREFAS en el sector de la Isla Teja en ubicado en dependencias de la institución ya mencionada.
+
+Hoy, CEREFAS tiene como misión la mantención y recuperación de animales silvestres afectados por causas antropogénicas, con el propósito de ser reinsertados en su medio 
+ambiente natural. Este es considerado un espacio de tránsito hacia áreas protegidas, con la finalidad de recuperar y liberar la fauna al medio silvestre, contribuyendo a la conservación, como también a la obtención de información técnico-científica de las especies nativas en pos
+de los planes de manejo sustentable.
+
+Encargado: Dr. Angelo Espinoza.
+Email: cerefas@uach.cl
+
+Los puntos cardinales de la organización son, la Rehabilitación e Investigación así como
+la Conservación y Educación Ambiental en pos de la Fauna Silvestre.
+
+
+Cabe destacar que este no es el único centro de este tipo en Chile. Existen diversos centros
+a lo largo del país que atacan algunos de los objetivos mencionados anteriormente, sumado
+a las necesidades propias de cada territorio.
+
+Listado de Centros de Rehabilitación de Fauna Silvestre en Chile: 
+https://www.redobservadores.cl/?p=5521
+
+El modo en que opera principalmente esta institución, es mediante el trabajo conjunto del 
+Servicio Agrícola Ganadero (SAG) y el Servicio Nacional de Pesca y Acuicultura (SERNAPESCA), quienes mediante llamados de la ciudadanía, o trabajo en terreno, acuden al rescate de los especímenes afectados y los trasladan a las dependencias de los CEREFAS.
+Sin esta organización, la recuperación de zorros, pingüinos, güiñas, lobos marinos y otras especies que llegan a diario, no sería posible.
+No obstante, el trabajo de esta organización no se limita a la Rehabilitación (y relacionadas) como ya se apuntó anteriormente; parte de su rol importante en la sociedad es la difusión, educación y generación de actividades en las ciudades y comunidades que permitan mejorar la
+convivencia de los ecosistemas que tienen contacto estrecho.
+
+Entorno: la ciudad de Valdivia está construida en y alrededor de humedales, el Río Calle-Calle y otros ecosistemas de alta relevancia para el desarrollo humano y animal (CONAF, 2013).
+https://www.conaf.cl/wp-content/files_mf/1386778289FolletoHumedales_2013_proyectoChileMexico.pdf
+
+Ajustando este contexto y entorno a los Objetivos de Desarrollo Sostenible a la organiación con 
+la que colaboraremos, contando con antecedentes conocidos por uno de los miembros del grupo de trabajo, nos podemos enfocar principalmente en atacar el punto 11. Ciudades y Comunidades Sostenibles; mediante el trabajo de educación que genera el centro para con la comunidad de Valdivia, ciudad con la cual presentan varias necesidades y problemas
+para la transformación de una ciudadanía "Valdiviana" comprometida y responsable con los ecosistemas convivientes.
+En contacto con la encargada de educación del CEREFAS Valdivia, Belén Hernández I. estudiante de 4to año de Medicina Veterinaria, se refiere al objetivo de educación y concientización del centro, pero también da algunos antecedentes sobre necesidades que se relacionan estrechamente con el punto 7. Energía asequible y no contaminante y el punto 9. Industria, Innovación e Infraestructura, para apoyar al Centro.
+
+Queda por evaluar, cual de los objetivos abordaremos y *¿cómo?*, mediante las herramientas que utilizaremos a lo largo de la asignatura.

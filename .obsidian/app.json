@@ -2,5 +2,7 @@
   "spellcheckLanguages": null,
   "spellcheck": false,
   "readableLineLength": false,
-  "autoPairMarkdown": true
+  "autoPairMarkdown": true,
+  "alwaysUpdateLinks": false,
+  "useMarkdownLinks": true
 }

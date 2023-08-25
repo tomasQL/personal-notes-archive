@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0fda50c000dbe8f3",
+            "id": "faa03e570a9117e5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INACAP/Information Systems.md",
+                "file": "INACAP/Innovación y Emprendimiento I..md",
                 "mode": "source",
                 "source": false
               }
@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INACAP/Information Systems.md",
+                "file": "INACAP/Innovación y Emprendimiento I..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INACAP/Information Systems.md",
+                "file": "INACAP/Innovación y Emprendimiento I..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INACAP/Information Systems.md"
+                "file": "INACAP/Innovación y Emprendimiento I..md"
               }
             }
           }
@@ -147,9 +148,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0fda50c000dbe8f3",
+  "active": "faa03e570a9117e5",
   "lastOpenFiles": [
+    "contexto-de-la-organización-cerefas.md",
     "INACAP/Innovación y Emprendimiento I..md",
+    "tomasQL/PCEP - Python Content.md",
+    "INACAP/Requirements Engineering and Management.md",
     "INACAP/Software Engineering.md",
     "INACAP/Information Systems.md",
     "tomasQL/index.md",

@@ -187,3 +187,31 @@ TGS.
 ¿Cuales son sus objetivos?
 Sistema - Datos - Entrada - Procesos - Salida - Información 
 
+
+
+
+
+
+<hr>
+
+Caso de estudio.
+*Recuperado de actividades en la asignatura*
+
+Clínica veterinaria.
+
+¿Cuáles son los elementos de negocio y requerimientos que representan el entorno, las entradas, los procesos,
+y las salidas?
+Entorno:
+	Es en "dónde" se encuentra situada la clínica veterinaria. En base a los detalles del caso, asumiremos que es 
+	en una ciudad medianamente poblada para las generalizaciones. Por lo que su entorno estará compuesto 
+	principalmente por clientes y pacientes del tipo doméstico.
+	Se mencionan algunas reglas sobre relaciones entre entidades a considerar. 
+		- No hay límite en cantidad de clientes.
+		- La relación entre clientes y pacientes (mascotas) es de 1 a muchos. Osea un cliente puede tener varias
+		   mascotas asociadas.
+	Entradas:
+		Cientes - Personas
+		Pacientes - Animales
+		Datos asociados a estas entidades.
+	Procesos:
+		P1. Registro de clientes: Cuando un cliente acude a los servicios de la clínica veterinaria, 
