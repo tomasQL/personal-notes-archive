@@ -288,3 +288,16 @@ para la transformación de una ciudadanía "Valdiviana" comprometida y responsab
 En contacto con la encargada de educación del CEREFAS Valdivia, Belén Hernández I. estudiante de 4to año de Medicina Veterinaria, se refiere al objetivo de educación y concientización del centro, pero también da algunos antecedentes sobre necesidades que se relacionan estrechamente con el punto 7. Energía asequible y no contaminante y el punto 9. Industria, Innovación e Infraestructura, para apoyar al Centro.
 
 Queda por evaluar, cual de los objetivos abordaremos y *¿cómo?*, mediante las herramientas que utilizaremos a lo largo de la asignatura.
+
+<hr>
+
+Clase viernes.
+
+	7. Energía asequible y no contaminante 
+	12. Producción y consumo responsable 
+
+# Producción 
+
+Pregunta positiva. Propósito. Impacto. Alcance (escalabilidad)
+
+¿Como solucionamos el problema de la educación 
