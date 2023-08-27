@@ -1,13 +1,14 @@
 <hr>
 
-### Ingeniería de Requerimientos
+### Ingeniería de Requerimientos - Asignatura
 
+Bibliografía consultada.
+Systems and software engineering — Life cycle processes — Requirements engineering.
+ISO - IEC - IEEE
 https://ieeexplore-ieee-org.ezproxy.dnb-inacap.cl/stamp/stamp.jsp?tp=&arnumber=8559686
-Systems and software engineering — Life cycle processes — Requirements engineering
 
+Engineering and Managing Software Requirements - Aybüke Aurum & Claes Wohlin - Springer.
 https://repository.dinus.ac.id/docs/ajar/%5BAyb%C3%BCke_Aurum_(Editor),_Claes_Wohlin_(Editor)%5D_En(BookFi.org)_.pdf
-Engineering and Managing Software Requirements
-
 
 <hr>
 
@@ -79,12 +80,132 @@ El análisis completo de las necesidades del usuario
 Acuerdos entre el desarrollador y el cliente 
 	= Resultan en una Especificación de Requerimientos de alta calidad.
 
+Los requerimientos no obstante son parte de un proceso de ingeniería que no es inherente
+al desarrollo de Software, mas bién, a diversas disciplinas al momento de solucionar problemas
+empresariales, organizacionales, de usuarios o clientes.
+
+Se pueden clasificar en:
+
+* Requerimientos de procesos: Condiciones básicas para la aplicación de metodologías 
+	de trabajo asegurando fluides y riesgos en el desarrollo a modo de ejercer control (Proceso).
+* Requerimientos de usuario: Actividad central conociendo las necesidades del usuario para 
+	cumplir con sus expectativas del producto como del proceso (costo y tiempo).
+* Requerimientos de análisis y negociación: Para lograr una especificación de alta calidad debe existir un análisis completo y exhaustivo logrando acuerdos entre desarrollador y cliente, 
+	manifestando la conformidad del resultado.
+* Requerimientos para la gestión: el proyecto, al cumplir con ciertas condiciones, debe asegurar el control de las actividades y del desarrollo de cada requierimiento.
 
 
+Según Aybüke Aurum & Claes Wohlin en Engineering and Managing Software Requirements.
+Requirements Classification:
+* Functional & Non-functional requirements
+* Goal level requirements - related to business goals
+* Domain level requirements - related to problema area
+* Product level requirements - related to the product
+* Design level requirements - what to build
+* Primary requirements - elicited (*obtenido o producido*) from stakeholders
+* Derived requirements - derived from primary requirements
+Others classifications:
+* Business requirements versus technical requirements
+* Product requirements versus process requirements - Business needs vs how people will
+	interact with the system
+* Role based requirements - Customer R, User R, IT R, System R and Security R (R-requirements)
+Estos requerimientos pueden ser abordados en una clasificación mas general según distintas
+miradas y autores.
+Por ejemplo se pueden establecer niveles de clasificación como:
+* Requirements at organizational level
+* Requirements at product level
+* Requirements at project level
+Donde los alcances de estos niveles se relaciónan con la gestión Estratégica (Strategic Management), Táctica (Tactical Management) y Operacional (Operational Management).
+
+Con estos antecedentes, cabe preguntarnos ¿Cómo los obtenemos?
 
 
+#### Técnicas para obtener Requerimientos.
+
+Necesitamos obtener información para definir y desarrollar los requerimientos de software.
+No existe una única técnica o herramienta para su obtención, por lo que esto dependerá de 
+las características del cliente o usuario, del entorno y complejidad del problema a resolver.
+
+Entre las más comunes:
+* Entrevistas y cuestionarios: para reunir información proveniente de grupos o personas.
+* Sistemas existentes: analizar sistemas existentes o analizar un "estado del arte".
+* Lluvia de ideas: modelo para generar una gran cantidad de ideas posibles para el sistema.
+* Prototipos: simulaciones del posible producto, que es probado por el usuario final.
+* Casos de uso: para especificar el comportamiento de un sistema.
+* Entre otras más.
 
 
+Según Zowghi & Coulin - Requirements Elicitation: A Survey of Techniques, Approaches, and 
+Tools (from Engineering and Managing Software Requirements).
+
+*Requirements elicitation is concerned with learning and understanding the needs of users and project sponsors (or stakerholders) with the ultimate aim of communicating these needs to the
+system developers. A substantial part of elicitation is dedicated to uncovering, extracting, and 
+surfacing the wants of the stakeholders.*
+
+Typical activities of the requirements elicitation process can be divided into five fundamental
+types: 
+1. Understanding the Application Domain.
+2. Identifying the Sources of Requirements.
+3. Analyzing the Stakeholders.
+4. Selecting the Techniques, Approaches and Tools to use.
+5. Eliciting the Requirements from Stakeholders and Other Sources.
+
+Es importante destacar que la obtención de requerimientos no ocurre de manera aislada. Este
+proceso está fuertemente relacionado al contexto en el que es llevado a cabo y sirve para 
+la especificación de las características del proyecto, la organización y su entorno.
+
+Material de profundización - INACAP.
+
+*Educción* - "Actividad dentro de la IR que recupera información relevante acerca del dominio
+del problema, y de las necesidades de las partes interesadas (stakeholders) para la
+confirmación de los requisitos del producto de software", (redalyc.org).
+Esto se puede traducir fácilmente, también, como el proceso de levantamiento y análisis de
+requerimientos, para su posterior modelamiento.
+
+Conceptualización de requisitos.
+Esto es muy similar a lo que ya hemos establecido; aún así no es irrelevante volver a abordarlo.
+
+* Análisis de requerimientos: aprender, entender e identificar el problema, las necesidades y los usuarios para comprender las restricciones de la solución.
+En la obtención / levantamiento / educción de requisistos se obtiene un discurso.
+Discurso que es entregado por los interesados en el desarrollo de una solución de software.
+A partir de este discurso, obtenemos un modelo conceptual.
+
+Informalidad: **¿Para qué toda esta parafernalia de conceptos y metodologías?**
+	Lo que debemos entender al desarrollar sistemas y software, es que existe la "crisis del software" y otros antecedentes, que aún atentan contra la calidad de una solución tecnológica.
+	Este gap o "brecha", es debido principalmente, por la dificultad en los procesos de comunicación entre las partes, tanto desarrolladores como usuarios o clientes. Generando el 
+	riesgo de llegar a una solución de software de baja calidad. 
+	*Recordar Sommerville y todo el resto de weones que leiste acerca de porqué fallan los
+	proyectos de software, tomasQL.*
+
+Cuando existen dificultades a la hora de obtener requerimientos que se manifiestan en el 
+proceso de educción, entra en juego la conceptualización de los requisitos gracias al 
+discurso del cliente o usuario.
+Con todo esto, aumentamos nuestra comprensión del problema, reducimos la complejidad o 
+brecha (gap) del problema y su solución, contribuyendo a la obtención de conceptos y por 
+lo tanto requerimientos de mayor calidad.
+
+Entonces:
+	1. Discurso del usuario en un lenguaje natural.
+	2. Proceso de conceptualización de requisitos.
+		2.1 Análisis orientado al **problema**.
+		2.2 Análisis orientado al **producto**. 
+	3. Representaciones (modelos) intermedias de los requisitos del usuario.
+		Estos modelos suelen representar lo que se llama Escenario de usuario.
+En el punto 3, identificamos:
+(Esto es parecido pero no igual a los casos de uso y herramientas usadas en el UML)
+* Actores, Atributos, Relaciones, Acciones, Funcionalidades e Interacciones.
+
+Así, comienza la articulación del espacio del problema con elementos de la realidad, y el 
+espacio del producto con las funcionalidades que debe realizar el software.
+
+#### Dificultades para obtener requerimientos.
+
+Todo suena muy bonito, pero en "el mundo real" cuando tenemos que ejecutar con las
+metodologías y herramientas, se presentan problemas, como no.
+Esto pone en riesgo la correcta definición de todo este proceso e ingeniería, que impactará
+negativamente en el proyecto de software.
+
+i.e: 
 
 
 
