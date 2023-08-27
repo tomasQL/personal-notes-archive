@@ -205,7 +205,15 @@ metodologías y herramientas, se presentan problemas, como no.
 Esto pone en riesgo la correcta definición de todo este proceso e ingeniería, que impactará
 negativamente en el proyecto de software.
 
-i.e: 
+* Los requerimientos no son obvios y provienen de muchas fuentes
+* Son difíciles de expresar en palabras (el lenguaje se torna ambiguo)
+* La cantidad de requerimientos es difícil de manejar
+* Un requerimiento puede cambiar a lo largo del ciclo de desarrollo
+* El usuario no puede explicar lo que hace
+* Tiende a recordar lo excepcional y olvidar lo rutinario
+* Hablan de lo que no funciona
+* Los usuarios tienen distinto vocabulario que los desarrolladores
+
 
 
 
