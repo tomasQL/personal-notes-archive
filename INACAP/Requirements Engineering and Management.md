@@ -215,6 +215,58 @@ negativamente en el proyecto de software.
 * Hablan de lo que no funciona
 * Los usuarios tienen distinto vocabulario que los desarrolladores
 
+No profundizaré (personalmente) en estas dificultades ya que son claras y recuerda, 
+si te crees profesional debes actuar como uno. El resto son factores externos manejables.
+
+### 2. Importancia de la ingenería de requerimientos.
+
+Aquí, la guía hace un énfasis, que a mi gusto, es simplemente darle la vuelta a las 
+anteriores perspectivas, metodologías y necesidades establecidas como posibles problemas
+para enfatizar la importancia de la IR. Sin embargo, como recordatorio o forma de reconocer
+nuevos "dolores de cabeza" y sobre todo *administrar bien nuestros dos recursos más valiosos*, el tiempo y el dinero es que le damos cuerda a este tema. Informalidad (no es que lo desprecie,
+o crea que ya lo se todo, simplemente creo entender y tener bien grabado los aspectos de la
+profesionalidad en la gestión y administración siempre pensando en su impacto y resultado en  blablablabla, puras weas).
+
+Parafraseando a Arias (2007):
+"Los requerimientos serán la pieza fundamental del desarrollo de software (como no xd), ya 
+que son la forma de planear el tiempo y costo así como la definición de recursos para el control."
+Recordar que antes de querer administrar, hay que definir que es lo que hay que administrar, 
+por muy obvio que parezca, por eso usamos métodos y herramientas.
+
+El desarrollo de un producto de software nunca debe ser lo que el desarrollador quiere, sino
+lo que el cliente necesita, y esto puede verse "trastocado" por ser nosotros, los intérpretes de
+esta obra que se pretende llevar a cabo, con todos los recursos y costos que significa su 
+realización.
+
+Las metodologías y herramientas (básicamente ser profesional...)
+permite:
+* Evitar rechazo de usuarios finales
+* Gestionar las necesidades del proyecto de forma estructurada
+* Mejorar la capacidad de predecir cronogramas y resultados
+* Disminuir costos y restrasos del proyecto
+* Mejorar la calidad del software
+* Mejorar la comunicación entre equipos
+
+
+Aybüke Aurum & Claes Wohlin.
+*Requirements engineering is accepted as one of the most crucial stages in software design 
+and development as it addresses the critical problem of designing the right software for the
+customer.*
+...
+*Software requirements are critical determinants of software quality...*
+El capítulo 1 aporta datos precisos de revisiones en otros estudios empíricos sobre la tasa
+de fallos y sus motivos, así como porcentajes de fallos sobre proyectos de software.
+
+**DOMAIN KNOWLEDGE!!!** (no es el único, ni principal motivo)
+Esa parte la tienes que tener clarísima.
+
+
+### 3. Roles y responsabilidades.
+
+
+
+
+
 
 
 
