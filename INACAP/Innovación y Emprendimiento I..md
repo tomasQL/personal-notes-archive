@@ -296,8 +296,53 @@ Clase viernes.
 	7. Energía asequible y no contaminante 
 	12. Producción y consumo responsable 
 
-# Producción 
 
 Pregunta positiva. Propósito. Impacto. Alcance (escalabilidad)
 
 ¿Como solucionamos el problema de la educación 
+
+<hr>
+
+Observaciones importantes. 
+
+Recordar que los Objetivos de Desarrollo Sustentable deben ser abordados DESDE problemáticas o necesidades de la ORGANIZACIÓN.
+
+Creo que al profe le costó comprenderlo por lo mismo. Tanto porque no tenía ni idea de lo que hace el centro y sus objetivos (entendible al igual que ustedes). 
+
+Cuando le comenté al profesor las ideas apenas llegué a la clase, me detuvo y corrigió el ser nosotros un vinculante entre dos organizaciones, porque entonces no estamos cumpliendo directamente NOSOTROS con alcanzar un ODS en la propuesta, y ahí me mencionó la vuelta de la misma idea de difusión, y ejemplificó la reutilización de un producto para que se vuelva consumo y producción responsable. Ahí salió el ejemplo de hacer nosotros con algo reciclado (producto que se le da la segunda vida) un afiche, pendón, o lo que sea para el centro, recalco, NOSOTROS, no terceros.
+
+Las ideas que tenemos están bien, pero debemos articularlas mejor para no escaparnos de la organización con la que trabajamos. Para ello usamos las herramientas del toolkit y plantear preguntas abiertas para ir localizando los ODS con las posibles necesidades o problemas. Como mencionó el profesor en los ejemplos, la idea es finalizar con una propuesta de algo que sea “implementable” o tangible sin llegar a proyectos tan amplios y que su desarrollo es progresivo, no inmediato al finalizar la asignatura. Recordar lo del “prototipo”, ese es el fín junto con la presentación tipo pitch.
+
+Educar y difundir en términos ambientales a la comunidad es el trabajo del CEREFAS, por lo tanto lo que apunta la asignatura, entre otras cosas, es como asistimos, mejoramos o solucionamos su necesidad de difusión de educación (que ya hacen, pero que se podría mejorar o amplificar mejor dicho), considerando que es una institución sin fines de lucro, y que no recibe (Y NO PUEDE RECIBIR) ingresos por actividades de índole comercial o intercambiarlas por difusión como publicidad, solo la exposición de que hubo un trabajo colaborativo, o recibimiento de donativos al centro con una mención sencilla de quién es el donante.
+
+Pueden publicar de forma neutra, que se acercó una empresa o emprendimiento de Valdivia con intenciones de hacer donaciones y comprometerse en ámbitos de cuidados con la fauna silvestre o acerca de concientización. Creo que ahí es donde deberíamos atacar. En facilitar, como mencionó el profesor, guías o lineamientos que permitan a las empresas, emprendimientos u organizaciones externas a cómo colaborar con el Centro y sus objetivos Y que esa colaboración sea basada en un ODS. Aún así me queda la duda si esa “guía” encaja con lo que requiere la asignatura o en su defecto, el profe.
+
+Por ejemplo, si al centro le hacen falta pendones con gráficos sobre educación, los cuales podría realizar una imprenta, se podría abordar de dos maneras, una que nos perjudica en que elegimos mal el lado de la organización y la otra que dependerá del profesor, si es que está bien implementado:  
+La que nos deja con la idea de que elegimos mal la organización:  
+1. Acudir a una imprenta y plantear el uso de materiales sobrantes, como por ejemplo cortes de papel pvc (con el que se hacen pendones publicitarios/gráficos) y darles una segunda vida con información de concientización, en este caso, que le sirvan a CEREFAS.
+
+Ahí el profe nos dirá: “entonces debieron elegir una imprenta y no el CEREFAS, porque tampoco es necesario apuntar a dicho centro, sino cualquier iniciativa VERDE, o Ambiental de sustentabilidad, consumo responsable o productivo”.  
+
+(Es lo que se me ocurre a la rápida usando lo que ustedes aportaron en la clase)
+
+2. Darle la vuelta a la idea anterior del punto 1, y realizar una guía (u otra propuesta que se les ocurra) DESDE LA EDUCACIÓN DE CEREFAS a las imprentas, sobre qué uso podrían darle a materias primas sobrantes, o pendones en desuso, si es que tuvieran. Por ejemplo: Si tienen tiras de papel pvc, pueden imprimir la frase: no sueltes a tu perro en presencia de fauna silvestre.  
+
+Luego la empresa, al darle ese uso a sus sobrantes, podrá donarlos, hacer la respectiva publicación por ambas partes del trabajo colaborativo, y CEREFAS tendrá herramientas educativas como ese lienzo para colocar en sus actividades públicas, o para implementarlas en parques, humedales, costaneras entre otros. Pero ese trabajo colaborativo es el futurible, y nosotros no entramos en juego. Entonces solo seríamos partícipes de la parte anterior. La guía, o diseño de materiales que necesitan para educación. Es trabajo del centro ponerlo en marcha, como cualquiera de los proyectos que realizaríamos con una pyme.
+
+“La pandemia de la COVID-19 ofrece a los países la oportunidad de elaborar planes de recuperación que reviertan las tendencias actuales y cambien nuestros patrones de consumo y producción hacia un futuro más sostenible.” 
+
+…
+
+“También se trata de desvincular el crecimiento económico de la degradación medioambiental, aumentar la eficiencia de recursos y promover estilos de vida sostenibles.”
+
+12.8 De aquí a 2030, asegurar que las personas de todo el mundo tengan la información y los conocimientos pertinentes para el desarrollo sostenible y los estilos de vida en armonía con la naturaleza.
+
+Recuperado del ODS 12, ONU. ([https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/))
+
+Con esta información presente, podemos abordar el asunto desde varias perspectivas. El tema del marketing está super bueno, pero genera el problema de que deberíamos estar en la otra vereda (la de la empresa y no la del centro). Y que el centro, no puede hacer publicidad ACTIVA sino rompe la regla de sin fines de lucro.
+
+Podríamos atacar la educación y difusión, desde la perspectiva de campañas publicitarias DEL CENTRO con sus mismas RR.SS para llegar a más personas y eso plantearlo como proyecto. Teniendo en cuenta que sus números son buenos y Claudio podría guiarnos mejor en este aspecto.  
+
+Con el fin de aportar pienso por ejemplo en: indicar como una marca (porque interesa también sus números, alcance con el objetivo de producir y consumir sustentablemente) podría aportar con el centro de modo que es BUENA PUBLICIDAD para ellos desde sus redes, y el centro por otro lado puede recibir un beneficio de dicha colaboración. Eso como un plan de “marketing” (para la empresa) y de difusión (para CEREFAS), por lo que existe el win win para ambos, sin atentar la parte de sin fines de lucro por parte del centro.
+
+El profe dijo también, que no hay que amarrarnos con una idea, por lo que sobre todo este ajetreo de cosas, definiciones y contextos, debemos agregar, CREO, el otro punto de energía asequible y no contaminante. Eso lo veo más difícil de desarrollar porque el centro tiene muy bien capado ese ángulo, sin embargo, esa es la gracia de las preguntas. Primero plantearlas y como dijo al final el profe, luego se van eliminando.
