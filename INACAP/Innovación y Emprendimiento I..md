@@ -346,3 +346,64 @@ Podríamos atacar la educación y difusión, desde la perspectiva de campañas p
 Con el fin de aportar pienso por ejemplo en: indicar como una marca (porque interesa también sus números, alcance con el objetivo de producir y consumir sustentablemente) podría aportar con el centro de modo que es BUENA PUBLICIDAD para ellos desde sus redes, y el centro por otro lado puede recibir un beneficio de dicha colaboración. Eso como un plan de “marketing” (para la empresa) y de difusión (para CEREFAS), por lo que existe el win win para ambos, sin atentar la parte de sin fines de lucro por parte del centro.
 
 El profe dijo también, que no hay que amarrarnos con una idea, por lo que sobre todo este ajetreo de cosas, definiciones y contextos, debemos agregar, CREO, el otro punto de energía asequible y no contaminante. Eso lo veo más difícil de desarrollar porque el centro tiene muy bien capado ese ángulo, sin embargo, esa es la gracia de las preguntas. Primero plantearlas y como dijo al final el profe, luego se van eliminando.
+
+
+<hr>
+
+Lunes 28-08-23
+### Entrevista.
+Una por cada entidad. Admin y cliente/usuario.
+(Dueño - Jefe, etc.)Administrador o parte interesada de la organización.
+Cliente o usuario - SAG , Ciudadanía.
+
+
+TOOLKIT. Instrumento 1.1.1.1
+
+“También se trata de desvincular el crecimiento económico de la degradación medioambiental, aumentar la eficiencia de recursos y promover estilos de vida sostenibles.”
+
+12.8 De aquí a 2030, asegurar que las personas de todo el mundo tengan la información y los conocimientos pertinentes para el desarrollo sostenible y los estilos de vida en armonía con la naturaleza.
+
+Recuperado del ODS 12, ONU. ([https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/](https://www.un.org/sustainabledevelopment/es/sustainable-consumption-production/))
+
+
+¿Cómo podemos ayudar al CEREFAS para aumentar sus actividades de educación ambiental en pro de la Fauna Silvestre?
+
+Soluciones al menos 8 (esta es la lluvia de ideas).
+
+
+1. Aumentar iniciativas donde CEREFAS se de a conocer a posibles donantes prospectos.
+2. Aumentar instancias y contactos de vinculo con la comunidad (colegios, empresas, negocios).
+3. Hacer un análisis de datos sobre quienes consumen información del CEREFAS para mejorar el contenido que se entrega.
+4. Proponer un análisis de datos para generar estrategias comunicativas con la comunidad.
+5. Aumentar iniciativas donde CEREFAS se de a conocer a la ciudadanía / comunidad.
+6. Generar estategias para mejorar la eficiencia de los colaboradores en sus operaciones.
+7. Generar estrategias para enfocar los contenidos educativos.
+8. Generar estrategias de fidelización y retención con los actuales consumidores del contenido de CEREFAS.
+
+Preparación de entrevista en profundidad a usuario.
+
+
+Obj General:
+	Evaluar la calidad de los datos y su flujo referente a las operaciones del CEREFAS.
+	
+
+Objetivos específicos: 
+1. Recabar información acerca de las operciones 
+
+
+Encargado de la organización con la que trabajaremos:
+Veterinario de CEREFAS.
+
+Cliente o usuario: Personal del Servicio Agrícola y Ganadero.
+
+
+
+
+
+
+
+
+
+
+
+
