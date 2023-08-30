@@ -113,4 +113,66 @@ permitiendo el intercambio de información.
 	   
 	Las principales características que deben tener los sitios web es que sean fáciles de utilizar, 
 	permitir el acceso claro y rápido a la información o productos de manera confiable y otorgando seguridad en las operaciones que realiza en usuario.
+	La usabilidad está relacionada con el grado de lealtad mostrado por los usuarios y su efecto
+	positivo.
+	
+	Usabildad -> Satisfacción -> Lealtad
+	Usabilidad -> Confianza -> Lealtad
+	Satisfacción -> Confianza
+	
+	Por otra parte, los problemas de usabilidad según Lorés & Granollers (2004) son:
+	* Problemas de percepción humana.
+	* Frustrantes problemas de navegación.
+	* Exigencias a la memoria del usuario.
+	* Consistencia.
+	* Problemas varios.
 	  
+	Métodos de inspección de usabilidad:
+	1. Evaluación heurística: Conjunto de evaluadores que examina la interfaz y verifica si satisface los principios reconocidos de usabilidad.
+	2. Recorrido congnitivo: Análisis congnitivo, donde un especialista realiza en la sesión un recorrido por el escenario de tareas como lo haría un usuario.
+	3. Análisis de acciones: Análisis cuantitativo de las acciones. Prediciendo el tiempo requerido para determinadas tareas.
+	4. Revisión de guías y reglas.
+	
+3. Accesibilidad y diseño centrado en el usuario.
+	Pasos guía para el proceso de diseño centrado en el usuario.
+	
+	1. Identificar usuarios a través de la técnica del mapa de empatía.
+	2. Averiguar las necesidades del usuario (métodos de investigación de usuarios y/o fuentes de documentación.)
+	3. Analiza las tareas y experiencias de usuario a través de la técnica de mapa de experiencia de usuario.
+	4. Diseña un prototipo de bajo nivel como loes un bosquejo en papel.
+	5. Levanta y analiza los elementos de arquitectura de la información.
+	6. Diseña un mapa mental asociado al diseño de interfaz.
+	7. Diseña un wireframe de acuerdo a la información de la arquitectura de la información.
+	8. Diseña un storyboard para afinar y comporbar la experiencia y navegación del usuario.
+	9. Mejora el diseño en función de lo identificado en el storyboard.
+	10. Diseña guías de estilos.
+	11. Diseña mockups con los estilos aplicados.
+	12. Realiza pruebas de evaluación de diseño de interfaz con métodos formales.
+	13. Vuelve a realizar cambios y pruebas de usuarios hasta que se vea que los mismos se sienten cómodos en el producto y lo encuentran sencillo de utilizar.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
+
+### Desarrollo evaluación formativa 1. Mapa de empatía.
+
