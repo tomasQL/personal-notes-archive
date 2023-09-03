@@ -4,16 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "e0ec165a80b8793f",
+        "id": "f218145d2f08a029",
         "type": "tabs",
         "children": [
           {
-            "id": "cf65407b3d92b6d5",
+            "id": "06f87ce598271490",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INACAP/English class..md",
+                "file": "INACAP/Requirements Engineering and Management.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "7c1e2523594fed24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90d462be907aa9ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "INACAP/Index (Borrador).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INACAP/English class..md",
+                "file": "INACAP/Index (Borrador).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INACAP/English class..md",
+                "file": "INACAP/Index (Borrador).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INACAP/English class..md"
+                "file": "INACAP/Index (Borrador).md"
               }
             }
           }
@@ -147,17 +165,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cf65407b3d92b6d5",
+  "active": "90d462be907aa9ae",
   "lastOpenFiles": [
+    "INACAP/Requirements Engineering and Management.md",
+    "INACAP/Index (Borrador).md",
+    "tomasQL/index.md",
     "INACAP/Interface Design (Graphical).md",
     "INACAP/English class..md",
     "INACAP/Innovación y Emprendimiento I..md",
-    "INACAP/Requirements Engineering and Management.md",
     "INACAP/Information Systems.md",
     "tomasQL/PCEP - Python Content.md",
     "contexto-de-la-organización-cerefas.md",
     "INACAP/Software Engineering.md",
-    "tomasQL/index.md",
     "INACAP/Innovación y Emprendimiento I 1.md",
     "tomasQL/Docker.md",
     "tomasQL/Cloud and Virtualization Concepts.md",

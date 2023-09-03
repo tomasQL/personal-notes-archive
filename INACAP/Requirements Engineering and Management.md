@@ -273,3 +273,39 @@ Esa parte la tienes que tener clarísima.
 
 <hr>
 
+Criterios: Considerar falencias del sistema.
+Clasificar requerimientos en funcionales y no funcionales.
+
+1. Identificar los principales requerimientos de negocio establecidos del caso.
+2. Identificar requerimientos de usuario.
+3. Clasificar a los usuarios según tipo (func y no func)
+4. Establecer falencias de los requerimientos.
+
+La Cadena Hotelera desea automatizar servicios.
+SI por cada hotel.
+Muchas actividaes son registradas en papel. Actividades sobre las estadísticas consumen tiempo y recursos.
+Quieren Centralizar y Unificación el sistema de reservas de sus hoteles.
+No se realiza overbooking (Sobreventas o exceso de reservas de un servicio que está por sobre la capacidad real de la empresa)
+Es para anticiparse a las cancelaciones de ultimo momento. Y garantizar la ocupación 
+del 100%. 
+En cambio al overbooking se desea sugerir a los clientes otros hoteles de las cadenas cuando no hay disponibilidad (Prioritario) (Requerimiento no funcional).
+
+Los clientes de la empresa deben poder realizar sus actividades por internet (Requerimiento funcional).
+Las estaciones de trabajo en los hoteles, operarán con la misma interfaz (Requerimiento funcional).
+Por lo que debe simplificarse el uso del sistema
+Proveer que las agencias de viajes puedan interoperar con el sistema mediante el uso de web services.
+Hay necesidades de rendimiento para el check in & check out
+Se debe poder usar un sistema de validación existente.
+Los empleados suelen trabajar en un solo hotel, pero estos pueden ser rotados a hoteles de otra región.
+
+Necesidad de info estadística. Sobre hoteles que abren o cierran donde la empresa está instalada. La información se recoje periodicamente y es utilizada por economistas de la empresa.
+Los servicios de cada hotel varían, todos cubren una amplia gamma de servicios a la habitación.
+
+Servicio a la habitación. Paquetes turísticos. Afiliación a sistemas de millas entre otros.
+Estos servicios se van agregando y removiendo del sistema en producción incluso.
+El sistema debe ser capaz de incorporar y remover nuevos modulos y subsistemas 
+Servicios extras varían en el tiempo.
+
+
+<hr>
+
