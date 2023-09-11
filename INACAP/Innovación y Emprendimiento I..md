@@ -397,13 +397,37 @@ Veterinario de CEREFAS.
 Cliente o usuario: Personal del Servicio Agrícola y Ganadero.
 
 
+ 
+<hr>
+
+Entrevista -  Cliente (ORG)
+					Usuario (SAG)
+
+Tabla de preparación de pauta observación no participante
+
+
+Observación no participante - utiliza la pauta AEIOU.
+Se cumple o no, se observa o no, frecuencia. 
 
 
 
 
 
 
+<hr> 
+
+12.8 De aquí a 2030, asegurar que las personas de todo el mundo tengan la información y los conocimientos pertinentes para el desarrollo sostenible y los estilos de vida en armonía con la naturaleza.
+ODS - 12.
 
 
+Objetivo principal:
 
+Aumentar las instancias e iniciativas de educación ambiental en pos de la fauna 
+silvestre.
+
+Preparación de entrevista en profunidad a usuario (ORG CEREFAS):
+
+<hr>
+
+#### Encuesta a experto
 
