@@ -309,7 +309,6 @@ Servicios extras varían en el tiempo.
 
 Apuntes.
 https://registro.sernatur.cl/wp-content/uploads/biblioteca/calidad/NCh02760-2013-046.pdf
-Antecedente norma derogada.
 norma de clasificación de establecimientos turísticos denominados hotel ...
 establece la clasificación en categorías de estrellas para los hoteles.
 Esta clasificación norma el cumplimiento de requesitos generales, arquitectónicos, de equipamiento y de servicios bien definidos para la clasificación.
@@ -318,6 +317,8 @@ Existen requisitos generales, arquitectónicos y de equipamiento definidos
 deben cumplir en base a esta clasificación.
 
 Norma chilena para Alojamiento Turístico N.Ch 2912.
+
+
 
 
 
