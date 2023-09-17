@@ -187,11 +187,6 @@ TGS.
 ¿Cuales son sus objetivos?
 Sistema - Datos - Entrada - Procesos - Salida - Información 
 
-
-
-
-
-
 <hr>
 
 Caso de estudio.
@@ -214,4 +209,60 @@ Entorno:
 		Pacientes - Animales
 		Datos asociados a estas entidades.
 	Procesos:
-		P1. Registro de clientes: Cuando un cliente acude a los servicios de la clínica veterinaria, 
+		**- P1.** Registro de clientes: 
+		Cuando un cliente acude a los servicios de la clínica veterinaria, existe un 
+		proceso donde se solicitan datos al cliente: Código, primer apellido, nombre, CI, número de cuenta
+		bancaria, dirección y teléfono.
+		**- P2.** Registro de los pacientes: 
+		El cliente acude con una masctoa (animal) osea, el paciente. Este también tiene un proceso donde 
+		se solicitan datos para su registro y control: Código, alias, especie, raza, color de pelo, fecha de 
+		nacimiento aproximada, peso medio del animal (ultimas 10 visitas) y peso actual.
+		**- P3.** Atención del paciente:
+		El paciente es atendido por el médico veterinario.
+		**- P4.** Procesamiento de datos de pacientes:
+		Los datos de pacientes y clientes se extraen y procesan para armar salidas de información 
+		específicas.
+		**Salidas**: 
+		Almacenamiento de información
+			- Informes
+			- Registros (tablas)
+			- Visualizaciones
+		Historial médico
+		Calendario de vacunación
+		Diagnósticos
+		Intervenciones
+		
+¿Qué tipo de desarrollo utilizaría y por qué?
+	Para desarrollar un sistema de información para la clínica veterinaria, utilizaría el modelo en Espiral.
+	El principal motivo es el análisis de riesgo.
+	Hay que considerar que una clínica veterinaria, independiente de su tamaño, es una organiación con 
+	recursos muy limitados; Por lo que el tiempo y costo de desarrollo de un sistema que de soporte a 
+	las operaciones del negocio es importante. 
+	También. la clínica debe mantener registros en algún sistema de información, o en papel. 
+	A mayor tiempo de desarrollo del sistema, mayor será el esfuerzo de migrar los datos que posea
+	la clínica al presente, aumentando los costos.
+	Sin embargo, los requerimientos y necesidades se encuentran bien definidos, por lo que no se esperan
+	grandes cambios en los requerimientos. 
+	La fase de diseño e implementación de un software, mediante el modelo en espiral, nos permite
+	introducir un desarrollo basado en prototipos, que permita al usuario interactuar con él, resistiendo
+	a los cambios excepcionales y continuando con las fases del ciclo de vida del software.
+
+<hr>
+
+### Características de la Información.
+
+Dato: "dupla formada por un atributo y un valor".
+El atributo es quien define al dato.
+El valor es el estado que puede asumir un atributo en un instante de tiempo.
+
+Decir "40" puede significar muchas cosas. En cambio, "40 grados" ya nos entrega más información
+de lo que queremos decir, aunque no suficiente. "40 grados de" incliniación, latitud, temperatura...
+**Atributo:** Grados de temperatura.
+**Valor:** 40
+Con esto damos paso del conjunto de datos hacia la información. Con ella podemos realizar una toma
+de decisiones: ir al médico, tomar agua, etc.
+
+**System IPO:** Sistemas de Entrada Procesos y Salida.
+Input - Process - Output
+
+[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")]()
