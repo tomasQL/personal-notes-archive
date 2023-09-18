@@ -126,4 +126,3 @@ Se utilizan para evaluar la veracidad.
 
 Finalmente exite un literal especial en Python llamado None. Objeto de NoneType.
 Se utiliza para representar la ausencia de un valor.
-
