@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tomasQL/Flask Development.md",
+                "file": "tomasQL/PCEP - Python Content.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "738b2f3ef3fe3289",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tomasQL/Flask Development.md",
+                "file": "tomasQL/PCEP - Python Content.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tomasQL/Flask Development.md",
+                "file": "tomasQL/PCEP - Python Content.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tomasQL/Flask Development.md"
+                "file": "tomasQL/PCEP - Python Content.md"
               }
             }
           },
@@ -158,8 +159,10 @@
   },
   "active": "8bc0d9a47d6033b8",
   "lastOpenFiles": [
-    "tomasQL/Git & GitHub guide.md",
+    "tomasQL/Python lang.md",
+    "tomasQL/PCEP - Python Content.md",
     "tomasQL/Flask Development.md",
+    "tomasQL/Git & GitHub guide.md",
     "tomasQL/MySQL laboratory.md",
     "tomasQL/Neovim Commands.md",
     "tomasQL/Docker.md",
@@ -172,7 +175,6 @@
     "INACAP/Index (Borrador).md",
     "tomasQL/index.md",
     "INACAP/English class..md",
-    "tomasQL/PCEP - Python Content.md",
     "contexto-de-la-organización-cerefas.md",
     "INACAP/Innovación y Emprendimiento I 1.md",
     "INACAP/README.md"
