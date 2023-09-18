@@ -318,11 +318,53 @@ deben cumplir en base a esta clasificación.
 
 Norma chilena para Alojamiento Turístico N.Ch 2912.
 
-
-
-
-
+<hr>
 
 
 <hr>
+
+
+Contexto de la problemática.
+
+Una cadena hotelera desea automatizar varios de sus servicios y procesos empresariales
+mediante el uso de los Sistemas de Información Tecnológicos ya sea actualizando o creando 
+nuevos recurso que apoyen la toma de decisiones de su directiva para la eficiencia en costos de tiempo y dinero respecto a las actividades en las áreas operacionales, ejecutivas y gerenciales.
+
+Cada hotel posee ya un sistema de información el cual debe actualizarsae en base a las siguientes 
+necesidades o problemáticas:
+
+Muchas actividades de los hoteles son registradas en el papel, y al momento de querer hacer 
+las estadísticas de la empresa aumenta el consumo de tiempo y recursos de sus trabajadores 
+para cumplir con esta tarea.
+
+Para responder a lo anterior la directiva a establecido que:
+
+* Centralización y unificación del sistema de reserva de sus hoteles.
+	El sistema de reservas debe evitar el Overbooking (práctica común en el domino de negocio Hotelero).
+	En cambio a esta práctica, desean sugerir a los clientes, otros hoteles de la cadena cuando no 
+	exista disponibilidad siendo esta parte del sistema un aspecto prioritario.
+
+* Las estaciones de trabajo en los hoteles deberán operar con la misma interfaz tanto para los usuarios trabajadores como para los usuarios clientes del hotel. Esto con el fin de simplificar el
+  uso o interacciones con el sistema.
+
+* La cadena necesita proveer a las agencias de viajes interoperatividad con el sistema hotelero y 
+  sus servicios mediante el uso de servicios web (Web Services).
+
+* El sistema de check in & check out debe responder con un alto rendimiento.
+* La cadena hotelera posee un sistema de facturación que debe mantenerse
+* Acerca de los empleados: estos suelen trabajar en un solo hotel, pero estos mismos pueden ser
+	rotados a otros hoteles de la cadena en distintas regiones.
+
+* Especialistas en economía de la empresa, presentan la necesidad e información estadística sobre
+  los hoteles que abren o cierran en los lugares en donde la empresa está instalada.
+  Esta información debe ser recogida periódicamente.
+  
+  * Cada hotel varía en los servicios que ofrecen a sus clientes, cubriendo una amplia
+	gamma de servicios a la habitación, paquetes turísticos, afiliación a sistemas de millas, entre
+	otros.
+	Estos servicios se van agregando y removiendo en el tiempo, por lo que el sistema debe permitir
+	estos cambios con el sistema en producción.
+
+* El sistema debe ser capaz de incorporar y remover nuevos módulos y subsistemas.
+
 
