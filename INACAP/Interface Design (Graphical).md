@@ -274,17 +274,14 @@ y categorización (orden) de los contenidos u elementos.
 
 Es una metodología para desarrollar e innovar en las personas.
 Se centra en empatizar, definir, idear, prototipar y evaluar.
-
-Se enfoca en valores humanos, generando empatía por las personas, en donde la retroalimentación de 
-los usuarios es fundamental para lograr un diseño final correcto.
-
 *"No lo digas, muéstralo"* - Comunica tu visión de una manera signifcativa e impactante usando recursos 
 visuales para hilar una historia.
 Prima la colaboración radical, osea, que los equipos de personas variadas generan buenas ideas.
 Se debe tener claro el proceso de diseño y saber qué métodos se utilizan en cada fase.
 
 Cultura de prototipos. Esto busca demostrar el diseño de un prototipo funcional pero no completo.
-Pero no se deben proyectar demasiadas cosas.
+No se deben proyectar demasiadas cosas.
+
 
 
 <hr>
