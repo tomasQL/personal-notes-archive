@@ -4,5 +4,6 @@
   "readableLineLength": false,
   "autoPairMarkdown": true,
   "alwaysUpdateLinks": false,
-  "useMarkdownLinks": true
+  "useMarkdownLinks": true,
+  "showLineNumber": false
 }

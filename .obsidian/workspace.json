@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INACAP/Information Systems.md",
+                "file": "INACAP/Interface Design (Graphical).md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INACAP/Information Systems.md",
+                "file": "INACAP/Interface Design (Graphical).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INACAP/Information Systems.md",
+                "file": "INACAP/Interface Design (Graphical).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INACAP/Information Systems.md"
+                "file": "INACAP/Interface Design (Graphical).md"
               }
             }
           },
@@ -159,6 +159,7 @@
   },
   "active": "8bc0d9a47d6033b8",
   "lastOpenFiles": [
+    "INACAP/Information Systems.md",
     "INACAP/Interface Design (Graphical).md",
     "INACAP/Requirements Engineering and Management.md",
     "INACAP/Software Engineering.md",
@@ -166,7 +167,6 @@
     "INACAP/Index (Borrador).md",
     "tomasQL/index.md",
     "INACAP/English class..md",
-    "INACAP/Information Systems.md",
     "tomasQL/PCEP - Python Content.md",
     "contexto-de-la-organización-cerefas.md",
     "INACAP/Innovación y Emprendimiento I 1.md",
