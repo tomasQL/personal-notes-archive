@@ -265,4 +265,4 @@ de decisiones: ir al médico, tomar agua, etc.
 **System IPO:** Sistemas de Entrada Procesos y Salida.
 Input - Process - Output
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")]()
+

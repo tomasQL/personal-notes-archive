@@ -113,7 +113,7 @@ El consumo y producción, son las fuerzas impulsoras de la economía mundial, y 
 uso de los recursos naturales y el uso del medio ambiente natural. 
 El objetivo establece consumir y producir más pero mejor, con menos. Aumentar la eficiencia de recursos y promover
 estilos de vida sostenibles.
-También, el desarrollo de este objetivo, contribuye a la mitigación de la probreza, transición hacia economías verdes
+También, el desarrollo de este objetivo, contribuye a la mitigación de la pobreza, transición hacia economías verdes
 y con bajas emisiones de carbono.
 Los puntos clave son el consumo y producción de energía, agua, comida y organización de la población en su desarrollo 
 económico-social (producción y servicios).
@@ -146,39 +146,6 @@ https://www.instagram.com/grunkompost/
 https://www.instagram.com/corallina.cl/?hl=es-la
 https://www.eco-barrios.cl
 https://www.instagram.com/reciclajespudu/
-
-
-Generar propuestas de colaboración entre Foodtrucks y emprendedores (técnicos 
-o profesionales) dedicados a la gasfitería, electricidad o de mantención en instalaciones de cocinas y equipos, para que el 
-carro de comida al paso pueda cumplir con las regulaciones y también evitar posibles multas en fiscalizaciones concernientes a 
-la seguridad.
-Si revisamos y analizamos la incorporación en negocios de comida al paso, nos encontraremos con problemáticas ya reguladas
-(el resto es cumplimiento por parte del emprendedor o pyme) en el marco del Reglamento Sanitario de los Alimentos (Decreto 977)
-https://www.bcn.cl/leychile/navegar?idNorma=71271. Donde a partir del artículo 74 podremos encontrar referencias a los carros de
-alimentos (Foodtrucks para nuestro contexto) estableciendo normativas sobre que pueden expender, el cómo, parámetros técnicos 
-para la manipulación de alimentos (temperaturas), uso de herramientas, sanidas e higiene así como, garantías en terminos de 
-seguirdad para los trabajadores.
-
-Entra la interrogante de ¿qué podríamos aportar? Los "Foodtrucks" podrían ser un candidato para la publicidad de otras Pymes 
-mediante colaboración. Por ejemplo, el artículo 74a en el apartado c) dice: "Los cilindros de gas deberán estar instalados y ser 
-utilizados cumpliendo con las medidas de seguridad que garanticen la salud del trabajador y la comunidad, conforme a las 
-disposiciones de la autoridad competente." Para esto, una propuesta sería abordar el cumplimiento legal sanitario y de seguridad, 
-con un emprendedor de la zona, enfocado en trabajos de gasfitería que se encargue de la revisión de instalaciones, para el 
-cumplimiento legal en caso de fiscalizaciones por la autoridad; el Foodtruck recibiría este servicio a cambio de algún medio que
-permita la publicidad o promoción de dicho profesional. En este ejemplo el impacto podría ser bajo en términos de ganancias para 
-el Foodtruck pero se ahorra posibles multas o problemas (incluso fatales) como lo son las incorrectas o desatendidas instalaciones
-en lugares de comida al paso. Un caso de referencia de lo anterior es el sucedido en Philadelphia, USA, donde dos personas 
-murieron por la explosión de un tanque de gas propano. Regulating The Food Truck Industry: An Illustration Of Proximity And 
-Sanitation Regulations - Nicholas Alvarez - Journal of Food Law & Policy.
-El mismo estudio consultado (acerca de legislación y leyes de alimentación en los Estados Unidos) aborda los casos y problemáticas 
-del cumplimiento y fortalecimiento de las regulaciones para la sanidad, higiene y correcto funcionamiento de trailers, camiones y 
-carros de comida.
-La retribución para el profesional podría ser mediante publicidad o sellos de contacto acerca de la mantención realizada en la 
-infraestructura del negocio. 
-Queda a evaluar el beneficio a largo plazo de esta propuesta, ya que no se refleja directamente en ganancias económicas "activas" 
-para el foodtruck, pero si para el cumplimiento legal de las condiciones mínimas o ideales para la operación de estos negocios. 
-Calidad o cuidados que son factores importantes a la hora de tomar la decisión de en donde adquirir un producto alimenticio 
-(aparte de la relación calidad-precio).
 
 Coincidiendo actividades, ya sea ferias locales que se realizan periódicamente, así como los propios desechos orgánicos que puedan 
 generar los foodtrucks, es relevante abordar el correcto tratamiento de estos desechos para que no terminen en los vertederos 
@@ -429,5 +396,28 @@ Preparación de entrevista en profunidad a usuario (ORG CEREFAS):
 
 <hr>
 
-#### Encuesta a experto
+#### Entrevista a experto.
+
+Contexto:
+Muy buenas tardes estimado.
+Realizaré una pequeña introducción sobre el experto presente en la entrevista 
+de hoy, el es el Doctor Marcelo Gómez Jaramillo, Médico Veterinario de la Universidad
+Austral de Chile, Ph.D realizado en Virginia Tech con diversas líneas de investigación.
+
+
+
+1. ¿Podría darme una panorámica más precisa de su experiencia profesional?
+
+2. ¿En que se encuentra trabajando actualmente o en que se está enfocando?
+
+3. ¿De donde nace su interés por las ciencias veterinarias?
+   
+Fin del contexto del experto y partida de las preguntas específicas concernientes al tema de
+la consulta.
+
+4. ¿Cómo influye el concepto de factores antropogénicos en su trabajo como médico e investigador veterinario?
+5. ¿Por qué considera importante estudiar y comprender los sistemas medioambientales que involucran animales y humanos en su campo de trabajo? (Ciudades con fauna silvestre conviviente dentro de la misma como fauna de los alrededores o fuera de la urbe).
+6. ¿Cuáles son los desafíos comunes que enfrenta la medicina veterinaria y sus diversas ramas al intentar comunicar sus hallazgos y resultados a la ciudadanía en términos de divulgación?
+7. En relación con la divulgación en la sociedad chilena, y específicamente en la región de Valdivia, ¿Considera que existe una carencia evidente de programas de educación ambiental enfocados en la fauna silvestre?
+   
 

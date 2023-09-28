@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tomasQL/PCEP - Python Content.md",
+                "file": "INACAP/Innovación y Emprendimiento I..md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tomasQL/PCEP - Python Content.md",
+                "file": "INACAP/Innovación y Emprendimiento I..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tomasQL/PCEP - Python Content.md",
+                "file": "INACAP/Innovación y Emprendimiento I..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tomasQL/PCEP - Python Content.md"
+                "file": "INACAP/Innovación y Emprendimiento I..md"
               }
             }
           },
@@ -159,19 +159,20 @@
   },
   "active": "8bc0d9a47d6033b8",
   "lastOpenFiles": [
-    "tomasQL/Python lang.md",
+    "INACAP/Innovación y Emprendimiento I..md",
+    "INACAP/Information Systems.md",
+    "INACAP/Requirements Engineering and Management.md",
+    "INACAP/Software Engineering.md",
     "tomasQL/PCEP - Python Content.md",
+    "tomasQL/JavaScript Components.md",
+    "tomasQL/Python lang.md",
     "tomasQL/Flask Development.md",
     "tomasQL/Git & GitHub guide.md",
     "tomasQL/MySQL laboratory.md",
     "tomasQL/Neovim Commands.md",
     "tomasQL/Docker.md",
-    "INACAP/Requirements Engineering and Management.md",
     "tomasQL/Cloud and Virtualization Concepts.md",
     "INACAP/Interface Design (Graphical).md",
-    "INACAP/Information Systems.md",
-    "INACAP/Software Engineering.md",
-    "INACAP/Innovación y Emprendimiento I..md",
     "INACAP/Index (Borrador).md",
     "tomasQL/index.md",
     "INACAP/English class..md",
