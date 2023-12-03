@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "INACAP/Requirements Engineering and Management.md",
+                "file": "INACAP/Information Systems.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "INACAP/Requirements Engineering and Management.md",
+                "file": "INACAP/Information Systems.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "INACAP/Requirements Engineering and Management.md",
+                "file": "INACAP/Information Systems.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "INACAP/Requirements Engineering and Management.md"
+                "file": "INACAP/Information Systems.md"
               }
             }
           },
@@ -158,12 +158,12 @@
   },
   "active": "1bd5a1abf6bd1f21",
   "lastOpenFiles": [
-    "tomasQL/Flask Development.md",
-    "INACAP/Requirements Engineering and Management.md",
     "INACAP/Interface Design (Graphical).md",
+    "INACAP/Software Engineering.md",
+    "INACAP/Requirements Engineering and Management.md",
+    "tomasQL/Flask Development.md",
     "INACAP/Innovación y Emprendimiento I..md",
     "INACAP/Information Systems.md",
-    "INACAP/Software Engineering.md",
     "tomasQL/PCEP - Python Content.md",
     "tomasQL/JavaScript Components.md",
     "tomasQL/Python lang.md",

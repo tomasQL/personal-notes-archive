@@ -314,3 +314,16 @@ No se deben proyectar demasiadas cosas.
 
 
 
+
+
+<hr>
+
+
+### Guías de estilo.
+
+Detalles elementos mockup aplicación 
+móvil O.N.D.A
+
+
+
+
