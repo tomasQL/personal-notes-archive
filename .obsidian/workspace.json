@@ -8,18 +8,55 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1bd5a1abf6bd1f21",
+            "id": "d2f3013a6531a94b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tomasQL/Git & GitHub guide.md",
+                "file": "tomasQL/PCEP - Python Content.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "afdf75b0f389b8b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tomasQL/Django Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5d36c3aa57eab8a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tomasQL/Firebase.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c4926301401d6b48",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tomasQL/Neovim Commands.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -69,7 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 235.5
+    "width": 483.5
   },
   "right": {
     "id": "738b2f3ef3fe3289",
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tomasQL/Git & GitHub guide.md",
+                "file": "tomasQL/Neovim Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tomasQL/Git & GitHub guide.md",
+                "file": "tomasQL/Neovim Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tomasQL/Git & GitHub guide.md"
+                "file": "tomasQL/Neovim Commands.md"
               }
             }
           },
@@ -158,26 +195,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1bd5a1abf6bd1f21",
+  "active": "c4926301401d6b48",
   "lastOpenFiles": [
+    "tomasQL/MySQL laboratory.md",
+    "tomasQL/Git & GitHub guide.md",
+    "tomasQL/index.md",
+    "tomasQL/Firebase.md",
+    "INACAP/Software Engineering.md",
+    "INACAP/Sistemas de Información.md",
+    "INACAP/Requirements Engineering and Management.md",
+    "tomasQL/Cloud and Virtualization Concepts.md",
+    "tomasQL/Blue Label.md",
+    "tomasQL/Django Notes.md",
+    "tomasQL/PCEP - Python Content.md",
     "tomasQL/Flask Development.md",
     "tomasQL/Docker.md",
-    "tomasQL/Cloud and Virtualization Concepts.md",
-    "INACAP/Requirements Engineering and Management.md",
-    "INACAP/Sistemas de Información.md",
-    "INACAP/Software Engineering.md",
     "INACAP/Interface Design (Graphical).md",
     "INACAP/English class..md",
     "Archivado/Innovación y Emprendimiento I..md",
     "Archivado",
-    "tomasQL/PCEP - Python Content.md",
     "tomasQL/JavaScript Components.md",
     "tomasQL/Python lang.md",
-    "tomasQL/Git & GitHub guide.md",
-    "tomasQL/MySQL laboratory.md",
     "tomasQL/Neovim Commands.md",
     "INACAP/Index (Borrador).md",
-    "tomasQL/index.md",
     "contexto-de-la-organización-cerefas.md",
     "INACAP/Innovación y Emprendimiento I 1.md",
     "INACAP/README.md"
