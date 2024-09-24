@@ -1,5 +1,4 @@
-
-
+Sources: MySQL documentation
 
 
 #EngineDocumentation
@@ -12,6 +11,17 @@ all db.opt files.
 
 MySQL operates in AUTOCOMMIT mode, so commands we issue at the
 MySQL prompt are committed and treated as a transaction.
+
+	SHOW ENGINES;
+There are nine types of database engines available and by default, tables get created as InnoDB type.
+There are pros and cons of using each type. 
+InnoDB supports fine-grained locking at the cost of slower performance but
+allows multiple users to make modifications to a table at the same time.
+On other hand, MyISAM places whole-table locks to handle multiple users
+wich is simpler and faster but reduces concurrency.
+
+<hr>
+
 
 #commands
 # *Basic SQL*
@@ -178,10 +188,11 @@ Inspect the defaults for our server.
 
 	INSERT INTO table (col1, col2, ... coln)  
 	VALUES (val1, val2, ... valn);  
+
  -- Query 1 
- INSERT INTO Actors ( 
- FirstName, SecondName, DoB, Gender, MaritalStatus, NetworthInMillions) 
- VALUES ("Brad", "Pitt", "1963-12-18", "Male", "Single", 240.00);
+	 `INSERT INTO Actors (` 
+	 `FirstName, SecondName, DoB, Gender, MaritalStatus, NetworthInMillions)` 
+	 `VALUES ("Brad", "Pitt", "1963-12-18", "Male", "Single", 240.00);`
  
 -- Query 2 
 	`INSERT INTO Actors ( FirstName, SecondName, DoB, Gender, MaritalStatus, NetworthInMillions) VALUES ("Jennifer", "Aniston", "1969-11-02", "Female", "Single", 240.00), ("Angelina", "Jolie", "1975-06-04", "Female", "Single", 100.00), ("Johnny", "Depp", "1963-06-09", "Male", "Single", 200.00);` 
@@ -197,36 +208,20 @@ Inspect the defaults for our server.
 
 -- Query 6 
 	`INSERT INTO Actors SET DoB="1950-12-12", FirstName="Rajnikanth", SecondName="", Gender="Male", NetWorthInMillions=50, MaritalStatus="Married";`
+
 SET is another form to insert data in the table. Notice that we dont follow the original order of the table, beacuse we are explicit call the column name
 and added a value.
 
 
+<hr>
+
 # Querying Data
 #querydata
 
+The SELECT statement retrieve data from tables.
 	`SELECT col1, col2, ... coln`
 	`FROM table`
 	`WHERE <condition>`
-
-
-
-# Creating a View
-#views
-
-Views are virtual tables that are created as a result of a SELECT query.
-They offer a number of advantages such as showing only a subset of
-data that is meaningful to users or restricting the number of rows and
-columns shown for security reasons.
-
-A view containing columns from multiple tables can simplify queries
-from multi-table query to a single table query against a view.
-A view can be created from a single table, by joining two tables, or from
-another view.
-
-	CREATE [OR REPLACE] VIEW view_name AS
-	SELECT col1, col2, ... coln
-	FROM table
-	WHERE <condition>
 
 -- Query 1  
 	`SELECT * from Actors; 
@@ -253,13 +248,48 @@ we wish to display.
 
 	SELECT FirstName, SecondName FROM Actors;
 
+There are various operators that can be used in a WHERE clause.
+
+
+## LIKE Operator
+#filteroperators
+
+Like operator works only with string data types and allows us to retrieve
+rows based on pattern matching on a particular column.
+
+	SELECT col1, col2, ... coln
+	FROM table
+	WHERE col3 LIKE "%some-string"
 
 
 
 
 
 
+<hr>
 
+# Creating a View
+#views
+
+Views are virtual tables that are created as a result of a SELECT query.
+They offer a number of advantages such as showing only a subset of
+data that is meaningful to users or restricting the number of rows and
+columns shown for security reasons.
+
+A view containing columns from multiple tables can simplify queries
+from multi-table query to a single table query against a view.
+A view can be created from a single table, by joining two tables, or from
+another view.
+
+	CREATE [OR REPLACE] VIEW view_name AS
+	SELECT col1, col2, ... coln
+	FROM table
+	WHERE <condition>
+
+
+
+
+<hr>
 
 # Transactions
 #transactions
