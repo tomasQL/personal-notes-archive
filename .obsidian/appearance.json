@@ -1,6 +1,8 @@
 {
   "accentColor": "",
   "baseFontSize": 22,
-  "textFontFamily": "",
-  "theme": "system"
+  "textFontFamily": "PT Serif",
+  "theme": "moonstone",
+  "monospaceFontFamily": "CaskaydiaCove Nerd Font Mono",
+  "cssTheme": "Minimal"
 }

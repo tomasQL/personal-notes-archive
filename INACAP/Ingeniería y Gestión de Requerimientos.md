@@ -25,15 +25,17 @@ https://repository.dinus.ac.id/docs/ajar/%5BAyb%C3%BCke_Aurum_(Editor),_Claes_Wo
 ### 1. Requerimientos.
 
 ¿Qué es un requerimiento?
-IEE:
+IEEE:
 	1. A condition or capability needed by a user to solve a problem or achieve an objective.
-	2. A condition or capability that must be mer or possessed by a system or system 
+	2. A condition or capability that must be met or possessed by a system or system 
 		component to satisfy a contract, standard, specification, or other formally imposed
-		documents 
+		documents.  
 	(A documented representation of a codition or capability as in 1 or 2).
 
 Sommerville: Un requerimiento es una declaración abstracta de alto nivel de un servicio
 que debe proporcionar el sistema o una restricción de este.
+Los requerimientos reflejan las necesidades del cliente por un sistema que atienda cierto propósito, como controlar un dispositivo, buscar información o colocar un pedido.
+Al proceso de descubrir, analizar, documentar y verificar estos servicios y restricciones se le llama Ingeniería de Requerimientos.
 
 Normalmente se apunta a que el requerimiento debe describir *lo que el sistema debe hacer* y 
 no el *cómo lo debe hacer* aunque esta línea sea algo difícil de persona a persona y difiera 
@@ -43,6 +45,14 @@ En el documento Systems and Software Engineering (ISO/IEC/IEE) se hace enfasis e
 "deberá (shall)" hacer el sistema. 
 Pero también, capturan las restricciones (*constraints*). Restricciones propias del dominio, o
 del sistema.
+
+Ejemplos: 
+	- Cuando la señal x es recibida [CONDICIÓN], el sistema [SUJETO] debe colocar [ACCIÓN] el bit de la señal x recibida con dos segundos [RESTRICCIÓN].
+	- El sistema de facturas [SUJETO], debe mostrar las facturas pendientes de los clientes [ACCIÓN], en orden ascendiente o por fecha de la factura [RESTRICCIÓN].
+
+Según la guía SWEBOK:
+	"*Software requierements express the needs and constraints placed o a software product that contribute to the solution of some real-world problem"
+
 
 Las principales características de un requerimiento son:
 
@@ -265,6 +275,90 @@ Esa parte la tienes que tener clarísima.
 
 
 
+<hr>
+
+## Unidad 1. Ingeniería de requerimientos.
+
+Objetivo: elaborar una especificación de requerimientos de software para un
+proyecto.
+Ingeniería de Software - Sommerville / pp. 83-114
+
+85 - derivacion de req a partir de otros
+
+30/08/2024
+Clase 2.
+
+Identificar y documentar falencias en un sistema:
+
+Aspectos a analizar:
+* Performance
+* Seguridad
+* Usabilidad
+* Escalabilidad
+
+Proponer al menos 3 requerimientos para mejorar el sistema, o crear
+uno nuevo que aborde las falencias.
+Documentar dichas falencias.
+
+Seguridad: Quienes tienen acceso al historial del paciente? Cuales son
+los permisos que tiene el personal del Hospital sobre la información
+sensible de un paciente? 
+
+Usabilidad: Gestión de Citas, quien las programa? el hospital o la clínica
+dispone de horarios? lo agenda el paciente o el personal del hospital?
+
+Escalabilidad: HME, disponer de un modelo que permita al sistema 
+integrarse con otros sistemas, afp, cajas de compensación, isapres,
+etc.
+
+Seguridad: gestion de citas, para la consulta puede ser semi-restringida, para los casos de pacientes con problemas mentales.
+
+<hr>
+
+
+04/09/2024 -  Clase día miércoles.
+
+Actividad en clases. 12:17
+Requerimientos principales basados en el contexto:
+- Necesidades de operatividad de los equipos en los laboratorios (disponibilidad, resiliencia).
+- Organizar la demanda (reserva y uso) de los laboratorios.
+El sistema debe permitir CONOCER los equipos defectuosos y GESTIONAR
+las reparaciones.
+
+Preguntas.
+¿De cuanto tiempo se dipone para el desarrollo e implementación de la solución?
+	3 meses.
+¿Con cuanta recurrencia se utilizan los laboratorios diariamente?
+		8 clases + alumnos que puedan usarlos en tiempos libres
+¿Cual es el presupuesto del centro para desarrollar una solución?
+	 poco presupuesto, se solicita una cotización o factibilidad.
+ ¿Existen restricciones sobre la operatividad de los equipos (eléctrica por ejemplo)?
+	los lab estan conectados a una LAN de la empresa en una red, seccionados por laboratorio identificado cada computador por lab, apagado después de inactividad de tiempo mediante la plataforma automatizado. Se apagan y encienden de manera arbitraria por uso. Cada pc tiene un perfil de usuario para los usuarios de centro, con restricciones de privilegios.
+
+* Monitoreo de RAM, CPU, ALMACENAMIENTO en RT, detección de fallas de software y hardware.
+	Gestion mediante plataforma web el uso, y la reserva, en demanda y calendarizado hasta la hora actual.
+
+	Roles: los pc ya están loggeados, hay perfil de admin en cada laboratorio. 
+
+	Apps necesarias vienen preinstaladas, tampoco se requiere gestion de otros reglamentos del SO en los equipos.
+
+	Cuando se generen alertas que lleguen a soporte, pero que también tengan otro alcance si se necesita, en casos de mantenimiento.
+	Pic de uso, notificaciones de errores.
+	Y que el computador en su monitorización se habilite o deshabilite cuando detecte estas fallas, y que esto se generen a mantención.
+
+	Pantallazos azules, scripts maliciosos.
+	Soporte se retira y se apagan los equipos.
+	
+	Laboratorios Existentes: 4
+
+Dual Boot, Windows, Linux.
+Calendarizazión semestral.
+
+
+
+
+
+
 
 
 
@@ -272,6 +366,7 @@ Esa parte la tienes que tener clarísima.
 
 
 <hr>
+# Ejercicios basados en proyectos
 
 Criterios: Considerar falencias del sistema.
 Clasificar requerimientos en funcionales y no funcionales.

@@ -1,1 +1,14 @@
-{}
+{
+  "editor:toggle-code": [
+    {
+      "modifiers": [],
+      "key": "F9"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [],
+      "key": "F10"
+    }
+  ]
+}

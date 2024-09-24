@@ -241,9 +241,9 @@ Listado de Centros de Rehabilitación de Fauna Silvestre en Chile:
 https://www.redobservadores.cl/?p=5521
 
 El modo en que opera principalmente esta institución, es mediante el trabajo conjunto del 
-Servicio Agrícola Ganadero (SAG) y el Servicio Nacional de Pesca y Acuicultura (SERNAPESCA), quienes mediante llamados de la ciudadanía, o trabajo en terreno, acuden al rescate de los especímenes afectados y los trasladan a las dependencias de los CEREFAS.
+Servicio Agrícola Ganadero (SAG) y el Servicio Nacional de Pesca y Acuicultura (SERNAPESCA), quienes mediante llamados de la ciudadanía, o trabajo en terreno, acuden al rescate de los especímenes afectados y los trasladan a las dependencias de CEREFAS o centros similares.
 Sin esta organización, la recuperación de zorros, pingüinos, güiñas, lobos marinos y otras especies que llegan a diario, no sería posible.
-No obstante, el trabajo de esta organización no se limita a la Rehabilitación (y relacionadas) como ya se apuntó anteriormente; parte de su rol importante en la sociedad es la difusión, educación y generación de actividades en las ciudades y comunidades que permitan mejorar la
+No obstante, el trabajo de esta organización no se limita a la Rehabilitación (y relacionadas) como ya se apuntó anteriormente; parte de su rol importante en la comunidad es la difusión, educación y generación de actividades en las ciudades y comunidades que permitan mejorar la
 convivencia de los ecosistemas que tienen contacto estrecho.
 
 Entorno: la ciudad de Valdivia está construida en y alrededor de humedales, el Río Calle-Calle y otros ecosistemas de alta relevancia para el desarrollo humano y animal (CONAF, 2013).

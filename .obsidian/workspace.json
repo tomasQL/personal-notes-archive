@@ -4,59 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "1bdb706abf506408",
+        "id": "8ba295c00603a625",
         "type": "tabs",
         "children": [
           {
-            "id": "d2f3013a6531a94b",
+            "id": "19d481f8ebbc8db7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tomasQL/PCEP - Python Content.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "afdf75b0f389b8b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tomasQL/Django Notes.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d36c3aa57eab8a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tomasQL/Firebase.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c4926301401d6b48",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "tomasQL/Neovim Commands.md",
+                "file": "tomasQL/MySQL laboratory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 483.5
+    "width": 264.5,
+    "collapsed": true
   },
   "right": {
     "id": "738b2f3ef3fe3289",
@@ -122,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tomasQL/Neovim Commands.md",
+                "file": "tomasQL/MySQL laboratory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "tomasQL/Neovim Commands.md",
+                "file": "tomasQL/MySQL laboratory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tomasQL/Neovim Commands.md"
+                "file": "tomasQL/MySQL laboratory.md"
               }
             }
           },
@@ -195,31 +159,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4926301401d6b48",
+  "active": "19d481f8ebbc8db7",
   "lastOpenFiles": [
+    "().md",
     "tomasQL/MySQL laboratory.md",
-    "tomasQL/Git & GitHub guide.md",
-    "tomasQL/index.md",
-    "tomasQL/Firebase.md",
-    "INACAP/Software Engineering.md",
-    "INACAP/Sistemas de Información.md",
-    "INACAP/Requirements Engineering and Management.md",
-    "tomasQL/Cloud and Virtualization Concepts.md",
-    "tomasQL/Blue Label.md",
-    "tomasQL/Django Notes.md",
-    "tomasQL/PCEP - Python Content.md",
+    "INACAP/Ingeniería y Gestión de Requerimientos.md",
     "tomasQL/Flask Development.md",
     "tomasQL/Docker.md",
-    "INACAP/Interface Design (Graphical).md",
-    "INACAP/English class..md",
+    "tomasQL/Git & GitHub guide.md",
+    "INACAP/Networking I.md",
+    "tomasQL/Cloud and Virtualization Concepts.md",
+    "INACAP/Sistemas de Información.md",
     "Archivado/Innovación y Emprendimiento I..md",
-    "Archivado",
-    "tomasQL/JavaScript Components.md",
-    "tomasQL/Python lang.md",
+    "INACAP/Taller de Diseño y Desarrollo de Soluciones.md",
+    "INACAP/Software Engineering.md",
+    "INACAP/Programación Avanzada de Aplicaciones.md",
+    "INACAP/Interface Design (Graphical).md",
+    "tomasQL/Orientación a Objetos.md",
+    "tomasQL/Untitled.md",
+    "tomasQL/Design Patterns.md",
+    "tomasQL/Pitiarme la página de HARCHA.md",
+    "tomasQL/MongoDB - NoSQL.md",
+    "INACAP/English class..md",
+    "tomasQL/Firebase.md",
+    "tomasQL/PCEP - Python Content.md",
+    "tomasQL/Django Notes.md",
     "tomasQL/Neovim Commands.md",
-    "INACAP/Index (Borrador).md",
-    "contexto-de-la-organización-cerefas.md",
-    "INACAP/Innovación y Emprendimiento I 1.md",
-    "INACAP/README.md"
+    "tomasQL/Blue Label.md",
+    "Archivado",
+    "tomasQL/JavaScript Components.md"
   ]
 }

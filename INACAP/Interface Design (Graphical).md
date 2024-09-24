@@ -284,45 +284,17 @@ No se deben proyectar demasiadas cosas.
 
 
 
+
 <hr>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Prototipo I
 
 
 
 <hr>
-
-## Prototipo I
-
+### Guías de estilo y prototipado
 
 
-
-
-<hr>
-
-
-### Guías de estilo.
-
-Detalles elementos mockup aplicación 
-móvil O.N.D.A
 
 
 
