@@ -3,6 +3,42 @@
 > @tomasQL <https://github.com/tomasQL>  
 > Fecha de creación Jueves 01 de septiembre del 2022.
 
+Generar clave SSH:
+
+	- Paso 1: ir hasta la carpeta de usuario mediante línea de comandos.
+	Normalemente C:/Users/NombreDeUsuario  
+	- Paso 2: verificar que no exista ya una carpeta .ssh con:
+	$ ls .ssh  
+	
+	- Paso 3: $ mkdir .ssh  y luego entrar a la carpeta $ cd .ssh  
+	- Paso 4: $ ssh-keygen -t rsa -C "tucorreoemail@email.com"  (el de github)
+	- Paso 5: le saldrá el path donde se va a generar, apretar ENTER.
+	- Paso 6: les pedirá ingresar un passphrase, por ahora dejenlo vacío (ENTER)  
+	  les aparecerá dos veces, dejenlo vacío.
+	- Paso 7: Debería salir una "key's randomart image"
+	- La clave SSH ya fue creada.  
+	- Revisen la carpeta oculta .ssh que debería estar en C:/Users/MiUsuario/.ssh/
+	deberían haber dos archivos, si habilitan ver la extensión o tipo de archivo,  
+	verán un id_rsa y un id_rsa.pub  
+	- Paso 8: dirigirese a GitHub, configuración, entrar al apartado SSH and GPG  
+	  keys.
+	- Paso 9: Denle un título a la clave (WINDOWS Usuario o lo que quieran) 
+	- Paso 10: Abrir el archivo id_rsa.pub con un editor de texto, copian y pegan  
+	  todo.
+	- Paso 11: agregar y probar si todo salió bien, en la terminal desde cualquier  
+	  directorio $ ssh -T git@github.com  les saldrá una opción yes/no, colocar yes.
+	- Paso 12: verificar que de respuesta en la terminal les salga un $ Hi  
+	  UsuarioGitHub  
+	- Paso 13: probar la conexión clonando cualquier repositorio de github por SSH,
+	  por ejemplo el de nosotros o cualquier otro $ git clone  
+	  git@github.com:usuario/repositorio.git  
+	- Con esto ya deberían poder hacer pull o push a sus repositorios o al del 
+	proyecto  
+
+	No olvidar vincular con los comandos de abajo "Configuración Global del usuario"
+	el username y email de su cuenta de github.
+
+
 ## 1. Conceptos fundamentales
 
     git help nombre_comando    
@@ -147,3 +183,6 @@ lo estaremos observando desde la consola.
     git commit --amend -m "NEW MESSAGE"  
 
 #### **Revirtiendo commits**
+
+
+

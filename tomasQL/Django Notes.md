@@ -30,7 +30,11 @@ Creating a Django Project
 	`$ django-admin startproject projectname`
 
 
+Installing modules in folder project.
 
-casos de uso:
-
+```
+pip install djangorestframework
+pip install markdown       # Markdown support for the browsable API.
+pip install django-filter  # Filtering support
+```
 

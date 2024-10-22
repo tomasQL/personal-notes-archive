@@ -1,7 +1,7 @@
 
 <hr>
 
-### Ingeniería de Requerimientos - Asignatura
+### Ingeniería de Requerimientos
 
 Bibliografía consultada.
 Systems and software engineering — Life cycle processes — Requirements engineering.
@@ -14,7 +14,6 @@ https://repository.dinus.ac.id/docs/ajar/%5BAyb%C3%BCke_Aurum_(Editor),_Claes_Wo
 <hr>
 
 # Ingeniería de Requerimientos
-(Guía de aprendizaje)
 
 1. Requerimientos: tipos, técninas y dificultades para su obtención.
 2. Importancia de la ingeniería de requerimientos.
@@ -78,6 +77,10 @@ bajo la perspectiva de sistemas sería el proceso se da en su desarrollo y consi
 requerimientos no funcionales).
 Los requerimientos no funcionales se relacionan con las características del sistema y que lo 
 limitan, enmarcando sus fronteras y restricciones.
+
+Existen requerimientos volátiles y duraderos.
+Unos podrán cambiar a lo largo del desarrollo del sistema y también del proceso de análisis (o en la elicitación) y los otros perduran
+a lo largo del sistema.
 
 
 #### Clasificación de los Requerimientos.
@@ -355,16 +358,6 @@ Dual Boot, Windows, Linux.
 Calendarizazión semestral.
 
 
-
-
-
-
-
-
-
-
-
-
 <hr>
 # Ejercicios basados en proyectos
 
@@ -461,5 +454,178 @@ Para responder a lo anterior la directiva a establecido que:
 	estos cambios con el sistema en producción.
 
 * El sistema debe ser capaz de incorporar y remover nuevos módulos y subsistemas.
+
+<hr>
+
+Análisis de requerimientos.
+
+Módulo de fichas de pacientes - Forma o "flujo" general del tratamiento de la
+información de un paciente.
+
+¿De que forma quieren registrar la ficha del paciente cuando este ingresa al centro de rehabilitación?
+	Desde cualquier dispositivo. 
+Formulario.
+¿Cómo les gustaría ver el historial del paciente en rehabilitación?
+ver los pacientes, antecedentes, controles o consultas. Comentarios o notas.
+
+¿Cómo se quiere identificar a los pacientes?
+Resumen, ultimo procedimiento, luego por interaccion del usuario aparece el historial completo. 
+
+¿Cómo se presenta el acceso a la información del paciente? (Por área del centro, por especies, por contenedor)
+Clasificacion 
+Por contendor
+Por especie
+Por tipo de animal
+Por motivo de llegada
+Por fecha
+
+Clasificación de los procedimientos de hospitalización
+
+(BPMN)proceso de negocio respecto a la manipulación de fichas.
+
+Consultas a distintos centros de fauna silvestre.**
+
+
+**Investigación de dominio: Consulta a centros de rehabilitación.** PENDIENTE
+Centro de rehabilitación CONCON.
+
+- Sobre el ingreso de fichas:
+    - ¿Qué información específica debe contener una ficha de paciente al momento de su creación? (esto lo responde la foto, sin embargo es bueno escuchar que diría el cliente o que espera)
+    - ¿Existen campos obligatorios y opcionales? ¿Cuáles son?
+    - ¿Como registran los casos de propietarios de fauna silvestre o exóticos autorizados?NUEVOOO
+
+- Modificación de fichas:
+    - ¿Qué tipos de modificaciones son las más comunes en las fichas de pacientes?
+    - ¿Existe algún sistema de control de versiones o historial de cambios en las fichas?
+    
+- Listado y visualización de fichas:
+    - ¿Qué criterios de búsqueda y filtrado son necesarios para el listado de fichas?
+    - ¿Qué información debe mostrarse en la vista resumida de las fichas activas?
+
+- Archivado de fichas:
+    - ¿Cuáles son los criterios para archivar una ficha de paciente? ¿Se recibe información sobre el SAG cuando los animales
+    - son reinsertados al habitat?IMPORTANTE
+    - ¿Cómo se diferencia una ficha archivada de una activa en términos de acceso y modificación?SOLICITUDES Y PERMISOS.
+
+- Procedimientos y hospitalización:
+    - ¿Qué información detallada se requiere al añadir un procedimiento?
+    - En la ficha de hospitalización, ¿qué datos específicos se necesitan registrar?NETAMENTE TÉRMINOLOGÍA??
+
+- Adjuntos y exámenes:
+    - ¿Qué tipos de archivos se deben poder adjuntar a las fichas?
+    - ¿Existe un límite de tamaño o cantidad para los archivos adjuntos?OJO A LA MAL UTILIZACIÓN DEL SISTEMA CASO
+    - VETIAPP CAMILA
+    - DETECCIÓN DE CAMPOS (CUANDO "CHANTAN" TEXTO EN LOS COMENTARIOS).
+    
+- Responsables y fechas:
+    - ¿Cómo el registro del tiempo es crucial para el sistema e información del paciente (ingreso, procedimientos, alta)?
+
+- Búsqueda de fichas históricas:
+    - ¿Qué criterios de búsqueda son importantes para localizar fichas históricas?
+
+- Roles y permisos:
+    - ¿Qué acciones específicas puede realizar un voluntario-residente que un administrador no pueda, y viceversa?
+    - ¿Existen otros roles que no estén representados en el sistema? EXTERNOS O VIATOR3.0 API DATA
+
+- Eliminación de fichas:
+    - ¿Bajo qué circunstancias se eliminaría una ficha de paciente?
+    - ¿Existe algún proceso de respaldo o recuperación para fichas eliminadas?AUTH DIRECCIÓN O RESIDENTES
+
+- Usabilidad y acceso:
+    - ¿Desde qué tipos de dispositivos se accederá al sistema (computadoras de escritorio, tablets, smartphones)?
+    - ¿Hay alguna consideración especial de usabilidad para el entorno de una clínica veterinaria (por ejemplo, uso con guantes, pantallas táctiles, entre otros)
+
+### 1. **Requerimientos funcionales**
+
+- ¿Quiénes son los responsables de actualizar o modificar las fichas (residentes, voluntarios, veterinarios)?
+- ¿Hay diferencias en el seguimiento de los procedimientos rutinarios versus los veterinarios?
+- ¿Cómo se maneja la ficha si se necesita adjuntar documentos aparte? OPORTUNIDAD CAMBIAR EXÁMENES POR DOCs.
+* ¿Existen necesidades sobre el almacenamiento de imágenes en el sistema? OPORTUNIDAD ADJUNTAR ESTADO DEL PACIENTE FOTO???
+- ¿Cuándo se decide que una ficha debe ser enviada a la carpeta de activos?
+
+### 2. **Requerimientos no funcionales**
+
+- ¿Existen restricciones de seguridad de la información?¿Cómo se asegura la confidencialidad de la información de los miembros de la organización?
+- ¿Hay alguna necesidad de integración con otros sistemas (por ejemplo, para los exámenes clínicos o de laboratorio)? ejemplo equipos que ya se encuentran conectados a tecnologías veterinarias como radiografías, ecografías, entre otros.
+- ¿Qué mecanismos de respaldo o recuperación existen para las fichas en caso de pérdida de información?
+- Necesidades gráficas de interfaz de usuario y experiencia de usuario (identidad de la organización, colores, gráficas).
+* Horarios de uso del sistema.
+
+### 3. **Flujo de trabajo**
+
+* ¿Qué pasos son manuales y cuáles podrían automatizarse?
+- ¿Existen situaciones donde se deba realizar más de un procedimiento al mismo tiempo? Si es así, ¿cómo se refleja esto en el sistema?
+
+### 4. **Registros y trazabilidad**
+
+- ¿Qué información debe registrarse para identificar al responsable de un procedimiento?  (Lo entrega la organización
+  en su docuemtación)
+- ¿Cómo se lleva el control de los procedimientos veterinarios realizados y los que están pendientes?¿Se espera un servicio del sistema en este caso?
+
+### 5. **Ocurrencias**
+
+* ¿Existen validaciones o alertas que se esperan del sistema? Por ejemplo: ¿Qué ocurre si se intenta adjuntar un documento no válido a la ficha? Con la inactividad de una ficha activa?
+
+COSTOS DE DESARROLLO.
+
+
+- **NWRA e IWRC**: Las organizaciones _National Wildlife Rehabilitators Association_ (NWRA) y _International Wildlife Rehabilitation Council_ (IWRC) proporcionan guías importantes sobre el manejo médico y ético de la fauna silvestre. Estos incluyen estándares para el tratamiento y la liberación de animales con un enfoque en la salud y el bienestar, alineados con las _Cinco Libertades_ y los _Cinco Dominios_ del bienestar animal, los cuales son marcos clave para medir el bienestar durante la rehabilitación​
+    
+    [Vet Knowledge Hub](https://vetbooks.ir/minimum-standards-for-wildlife-rehabilitation-4th-edition/)
+    
+    ​
+    
+    [MDPI](https://www.mdpi.com/2076-2615/13/11/1836)
+    
+    .
+    
+- **Standards for Wildlife Rehabilitation**: La cuarta edición de este estándar internacionalmente reconocido proporciona directrices para la rehabilitación de animales silvestres, incluyendo procedimientos médicos, y es aplicable para tu sistema. Detalla los requisitos de registros médicos, manejo de la salud y el bienestar, y criterios de liberación o eutanasia cuando la reintroducción al hábitat no es viable​
+    
+    [Vet Knowledge Hub](https://vetbooks.ir/minimum-standards-for-wildlife-rehabilitation-4th-edition/)
+    
+    ​
+    
+    [Professionals](https://www.rcvs.org.uk/document-library/bvzs-good-practice-guidelines-for-wildlife-rehabilitation/bvzs-good-practice-guidelines-for-wildlife-centres-011016-.pdf)
+    
+    .
+    
+- **Principios y Consideraciones Legales**: En Reino Unido, la _Royal College of Veterinary Surgeons_ (RCVS) emite guías para el manejo de centros de rehabilitación que también pueden ser útiles. Estas guías hacen énfasis en que los centros deben tener instalaciones y conocimiento adecuado de cada especie, y se enfocan en el objetivo de liberar a los animales
+
+
+
+
+
+
+django automatización de generacion de apis.
+
+
+
+# Trazabilidad de los Requerimientos.
+
+### Matriz de trazabilidad de Requerimientos:
+
+
+Ejemplos de relaciones entre los "objetos" o "artefactos" entregados
+o generados en el proceso de desarrollo.
+
+Customer Requirements -> System Requirements
+	Principales fuentes de información sobre las necesidades del
+	negocio y las restricciones o funciones del sistema.
+	
+Software Requirements -> Software Architechture
+	Una vez se establece la función del sistema, se derivan requerimientos de software (Diagramas UML, modelos y descripciones). Identificación previa de patrónes de diseño de 
+	software.
+	
+Software Detailed Desing -> Implementation (code)
+Implementation -> Unit Tests
+	Puede estar en el alcance de un documento de especificación
+	la referencia a la validación de las implementaciones durante
+	el proceso de desarrollo. De este derivan las pruebas de
+	integración, unitarias, funcionales (nuevamente linkea Customer Requirements), aceptación, rendimiento.
+
+
+Estas relaciones deben representar las dependencias y orígenes 
+de los requerimientos.
+
 
 

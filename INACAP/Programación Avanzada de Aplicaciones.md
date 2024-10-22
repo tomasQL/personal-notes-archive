@@ -25,8 +25,6 @@ Unidad 4: Acceso a bases de datos con Entity Framework
 
 <hr>
 
-## C # and .NET Core concepts
-
-
+# C# Object Oriented.
 
 

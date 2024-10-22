@@ -5,10 +5,16 @@
       "key": "F9"
     }
   ],
-  "theme:use-light": [
+  "theme:use-dark": [
     {
       "modifiers": [],
       "key": "F10"
+    }
+  ],
+  "theme:use-light": [
+    {
+      "modifiers": [],
+      "key": "F8"
     }
   ]
 }
